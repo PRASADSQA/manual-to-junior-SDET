@@ -1,5 +1,5 @@
 Goal:
-Learn Python and Java basics in 4 weeks with practical coding and Git usage.
+Learn Python with practical coding and Git usage.
 Target: Basic automation understanding for Junior SDET roles.
 
 Time Commitment:
@@ -8,8 +8,8 @@ Time Commitment:
 
 Programming Foundations
 
-Setup Python, Java, VS Code, Git, GitHub repo creation
-Variables & Data Types (Python + Java)
+Setup Python, VS Code, Git, GitHub repo creation
+Variables & Data Types (Python)
 If / Else conditions
 Loops (for, while)
 Functions / Methods
@@ -30,7 +30,6 @@ Testing Basics
 
 PyTest Basics
 PyTest Fixtures
-JUnit Basics
 Assertions
 Mini Test Project
 Run Tests via CLI
@@ -40,7 +39,6 @@ SDET Basics & CI
 
 API Basics with Python
 API Test
-Java API Intro
 GitHub Actions CI
 README Polish
 Refactor & Cleanup
@@ -52,7 +50,7 @@ Git Best Practices:
 - Push to GitHub regularly
 
 Final Outcome:
-- Python & Java basics
-- PyTest & JUnit fundamentals
+- Python basics
+- PyTest fundamentals
 - API testing basics
 - Git & CI understanding
